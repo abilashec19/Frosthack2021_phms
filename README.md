@@ -1,1 +1,3 @@
-# Frosthack2021_phms
+In the post-COVID world, there will be a fear for diseases around us. Old age persons, pregnant women and children with heart problem should periodically monitor their health. While the world is being digitalised, there is a need to use as many services they can use as possible in their doorstep. Our aim is to bring one of the such services to home. A wearable device that frequently and constantly check a patient's health and take necessary actions like calling an ambulance in case of emergency.
+In this COVID-19 situation, due to lot of lockdowns, patients with other diseases had suffered enough. So we decided to build a solution. Although we cannot bring all the medical services to home, we decided to bring some basic diagnostics to home in the digital form.
+Right now, idea has been developed. Research works are now in progress. Prototype development is yet to begin. Since we are at home, we are in devoid of enough resources for development.
